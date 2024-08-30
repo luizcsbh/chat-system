@@ -49,8 +49,6 @@ Antes de configurar o ambiente, certifique-se de ter as seguintes dependências 
 
 •  **Elasticsearch**.
 
-•  **Node.js** (para o frontend).
-
 •  **Docker** (opcional para containerização).
 
 •  **Git**.
